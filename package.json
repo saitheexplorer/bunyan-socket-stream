@@ -1,0 +1,10 @@
+{
+  "name": "bunyan-socket-stream",
+  "version": "0.0.1",
+  "description": "Emit objects to a socket via stream.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "socket.io-client": "^1.0.6",
+  },
+  "license": "MIT"
+}
